@@ -5,3 +5,5 @@ openai>=0.27.4
 PyPDF2>=3.0.1
 openpyxl>=3.0.0
 python-docx>=0.8.11
+plotly>=5.10.0
+matplotlib>=3.1.1
