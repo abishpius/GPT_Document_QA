@@ -193,7 +193,7 @@ def convert_df(df):
 st.title("Free ChatGPT Document Q&A")
 
 st.markdown('#### Begin by entering your api key and follow the steps as they appear.')
-st.markdown('###### This app will allow you to run Q&A on any document (xl, pdf, word) and at the end you can dowload all your queries and answers indexed in a csv file.')
+st.markdown('###### This app will allow you to run Q&A on any document (xl, pdf, word) and at the end you can download all your queries and answers indexed in a csv file.')
 
 api_key = st.text_input('Enter Your API Key', '')
 
